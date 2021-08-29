@@ -23,3 +23,6 @@ _autosave-*
 
 # Backups
 cad/goldfish-backups/*
+
+# Plots
+cad/plot/*
