@@ -26,3 +26,7 @@ cad/goldfish-backups/*
 
 # Plots
 cad/plot/*
+
+# Mac shits
+.DS_Store
+cad/.DS_Store
